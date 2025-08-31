@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how the web works
+- 🤔 I’m looking for help with everything
 <!--
 **maaafk/maaafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
